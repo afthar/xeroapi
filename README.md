@@ -10,4 +10,18 @@ Dev Centre: http://developer.xero.com/api-overview/private-applications/
 
 Code Samples: http://developer.xero.com/getting-started/code/
 
+## Solution
+
+## TODO:
+- [] Define architecture and tools to use
+- [] get credentials and run the example
+- [] MVP from localhost
+- [] MVP from CI, integrate CI into github
+- [] define test coverage
+- [] implement 10 tests
+- [] refactor to optimize and stabilize
+- [] review and extend coverage
+- [] groom documentation
+- [] code review
+
 Copyright 2016 afthar
